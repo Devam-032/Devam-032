@@ -1,7 +1,4 @@
-# 👋 Hi, I'm Devam Shah
-
-![](https://komarev.com/ghpvc/?username=Devam-032)
-
+# 👋 Hi, I'm Devam Shah  <p align="right"><img src="https://komarev.com/ghpvc/?username=Devam-032" alt="Profile views badge"></p>
 ## 🚀 About Me
 I am a passionate **Robotics Software Engineer in the making**, currently in my final year of engineering. My expertise lies in designing and implementing autonomous robotic systems using **ROS**, **ROS2**, and advanced navigation algorithms.  
 
