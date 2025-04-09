@@ -45,7 +45,7 @@ I love working on real-world robotics projects, solving challenges, and contribu
 
 ---
 
-## 💋 Let's Connect!
+## Let's Connect!
 - **Email:** [devamwork01@gmail.com](mailto:devamwork01@gmail.com)  
 - **LinkedIn:** [Devam Shah](https://www.linkedin.com/in/devam-shah-0a8918227/)  
 - **GitHub:** [Devam-032](https://github.com/Devam-032)
