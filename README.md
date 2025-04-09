@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Devam Shah  <p align="right"><img src="https://komarev.com/ghpvc/?username=Devam-032" alt="Profile views badge"></p>
+
 ## 🚀 About Me
 I am a passionate **Robotics Software Engineer in the making**, currently in my final year of engineering. My expertise lies in designing and implementing autonomous robotic systems using **ROS**, **ROS2**, and advanced navigation algorithms.  
 
@@ -18,12 +19,18 @@ I love working on real-world robotics projects, solving challenges, and contribu
 
 ## 📂 Featured Projects
 
-### [1️⃣ Final Year Project: EKF SLAM and Outdoor Navigation](https://github.com/Devam-032/EKF_SLAM-and-Outdoor-Navigation-of-a-differential-drive-robot)
+### [1️⃣ EKF Localization and SLAM in ROS2](https://github.com/Devam-032/ekf_localization_ros2)
+- Implemented **Extended Kalman Filter (EKF)** based localization and **SLAM** from scratch using **ROS2 Humble**.
+- Fuses odometry and laser scan data to estimate robot pose and landmark positions with associated covariances.
+- Visualizes estimated trajectories, landmarks, and sensor data using **Gazebo** and **RViz**.
+- Built without relying on Nav2 or third-party libraries—highlighting an in-depth understanding of robotics software and system integration.
+
+### [2️⃣ Final Year Project: EKF SLAM and Outdoor Navigation](https://github.com/Devam-032/EKF_SLAM-and-Outdoor-Navigation-of-a-differential-drive-robot)
 - Developed an **Extended Kalman Filter (EKF)** based localization system for differential drive robots.  
 - Built a real-time navigation system incorporating **SLAM**, sensor fusion, and outdoor motion planning.  
 - This project leveraged insights and methodologies learned during my research internship at **IIT Madras**, where I contributed to the development of localization systems for mobile robots.  
 
-### [2️⃣ ROS2 Humble Odometry and Control](https://github.com/Devam-032/ros2_humble_odometry_and_control)
+### [3️⃣ ROS2 Humble Odometry and Control](https://github.com/Devam-032/ros2_humble_odometry_and_control)
 - Showcases odometry and motion control for differential drive robots using **ROS2 Humble**.  
 - Incorporates path-planning algorithms and sensor integration for precise navigation.  
 - An ongoing project with planned feature enhancements.
@@ -38,7 +45,7 @@ I love working on real-world robotics projects, solving challenges, and contribu
 
 ---
 
-## 📫 Let's Connect!
+## 💋 Let's Connect!
 - **Email:** [devamwork01@gmail.com](mailto:devamwork01@gmail.com)  
 - **LinkedIn:** [Devam Shah](https://www.linkedin.com/in/devam-shah-0a8918227/)  
 - **GitHub:** [Devam-032](https://github.com/Devam-032)
@@ -48,3 +55,4 @@ I love working on real-world robotics projects, solving challenges, and contribu
 ## 🔭 What’s Next?
 I am exploring opportunities to work on impactful robotics and AI projects. My vision is to contribute to cutting-edge technologies that advance autonomous systems and improve lives globally.  
 Let’s collaborate to build something amazing! 🚀
+
